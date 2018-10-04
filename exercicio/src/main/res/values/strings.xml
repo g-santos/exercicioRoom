@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exercicio</string>
+    <string-array name="generos_array">
+        <item>Ação</item>
+        <item>Comédia</item>
+        <item>Romance</item>
+        <item>Terror</item>
+        <item>Animação</item>
+        <item>Ficção</item>
+        <item>Fantasia</item>
+    </string-array>
+    <string-array name="status_array">
+        <item>Lido</item>
+        <item>Não Lido</item>
+        <item>Abandonado</item>
+        <item>Desejo</item>
+    </string-array>
+</resources>
